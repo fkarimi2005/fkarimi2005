@@ -10,7 +10,7 @@
 
 ## 📈 Статистика
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=firuz123&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=firuz&show_icons=true&theme=radical)
 
 ## 📫 Связаться со мной
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_f1ruzz.7)
