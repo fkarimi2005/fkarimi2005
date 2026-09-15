@@ -1,0 +1,56 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="854"
+    height="200"
+    viewBox="0 0 854 200"
+    role="img"
+    aria-label="Welcome to my profile"
+>
+    <defs>
+        <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0%" stop-color="#0f172a"/>
+            <stop offset="100%" stop-color="#334155"/>
+        </linearGradient>
+
+        <linearGradient id="title" x1="0" y1="0" x2="1" y2="0">
+            <stop offset="0%" stop-color="#38bdf8"/>
+            <stop offset="50%" stop-color="#a78bfa"/>
+            <stop offset="100%" stop-color="#f472b6"/>
+        </linearGradient>
+    </defs>
+
+    <rect
+        width="854"
+        height="200"
+        rx="20"
+        fill="url(#background)"
+    />
+
+    <circle cx="70" cy="40" r="80" fill="#38bdf8" opacity="0.10"/>
+    <circle cx="790" cy="170" r="110" fill="#f472b6" opacity="0.10"/>
+
+    <text
+        x="427"
+        y="90"
+        text-anchor="middle"
+        dominant-baseline="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="48"
+        font-weight="700"
+        fill="url(#title)"
+    >
+        Welcome to my profile!
+    </text>
+
+    <text
+        x="427"
+        y="140"
+        text-anchor="middle"
+        dominant-baseline="middle"
+        font-family="Arial, Helvetica, sans-serif"
+        font-size="20"
+        fill="#cbd5e1"
+    >
+        Backend Developer • Go • PostgreSQL • Docker
+    </text>
+</svg>
